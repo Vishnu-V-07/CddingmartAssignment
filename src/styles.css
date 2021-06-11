@@ -1,0 +1,19 @@
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+body {
+  text-align: center;
+  padding: 110px 80px 50px 370px;
+}
+form {
+  display: inline-block;
+  flex-direction: column;
+  align-items: stretch;
+}
+.a {
+  width: 500px;
+  border: 3px solid black;
+  padding: 50px;
+}
